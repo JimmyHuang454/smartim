@@ -26,6 +26,21 @@ It is Mac-only for now.
 
 Then, enjoy the convenience!
 
+## Use [macism](https://github.com/Jackiexiao/macvimswitch/) instead
+
+**Recommended!!**
+
+```
+let g:imselect_path = 'macism' # fix some bugs of im-select
+```
+
+## Use newest version of [im-select](https://github.com/daipeihust/im-select)
+
+```
+let g:imselect_path = 'im-select'
+```
+
+
 # FAQ
 
 ## Why is it Mac-only?
